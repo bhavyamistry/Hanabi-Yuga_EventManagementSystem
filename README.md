@@ -57,14 +57,14 @@ This will start the server and client, and you can access the application in you
 
 This project utilizes the following technologies and frameworks:
 
-1.MongoDB
-2.Express.js
-3.React.js
-4.Node.js
-5.Rest API
-6.Bootstrap (for styling)
-7.Stripe API
-8.Gmail SMTP (for sending email)
+1. MongoDB
+2. Express.js
+3. React.js
+4. Node.js
+5. Rest API
+6. Bootstrap (for styling)
+7. Stripe API
+8. Gmail SMTP (for sending email)
 
 ## License
 This project is licensed under the MIT License.
