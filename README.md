@@ -1,4 +1,4 @@
-# Event Management for MERN Project
+# Event Management using MERN
 
 This is a event management project showcasing a basic implementation of a MERN (MongoDB, Express.js, React.js, Node.js) stack application.
 
