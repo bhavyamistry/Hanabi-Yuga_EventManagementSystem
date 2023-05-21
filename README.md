@@ -9,9 +9,8 @@ This is a event management project showcasing a basic implementation of a MERN (
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Demo](#demo)
 
 ## Project Overview
 
@@ -26,9 +25,6 @@ The project is Event/Venue management system which is a one stop shop for both v
 - Allowing users to keep a track of previously registered events or booked venues and upcoming reservations 
 - Dark and White Theme
 
-
-
-
 ## Installation
 
 To run the project locally, follow these steps:
@@ -41,8 +37,38 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-To start the development server and the client application, run the following command from the project root directory:
+To start the server, run the following command from the project root directory:
 
 ```shell
-npm run dev
+cd server
+npm run
+```
+
+To start the client, run the following command from the project root directory:
+
+```shell
+cd client
+npm run
+```
+
+This will start the server and client, and you can access the application in your browser at http://localhost:3000.
+
+## Technologies-used
+
+This project utilizes the following technologies and frameworks:
+
+1.MongoDB
+2.Express.js
+3.React.js
+4.Node.js
+5.Rest API
+6.Bootstrap (for styling)
+7.Stripe API
+8.Gmail SMTP (for sending email)
+
+## License
+This project is licensed under the MIT License.
+
+## Demo
+[![Video Demo](path/to/thumbnail-image)]([https://www.youtube.com/watch?v=video-id](https://youtu.be/G0wcVbQDUPA))
 
