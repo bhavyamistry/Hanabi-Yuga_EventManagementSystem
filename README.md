@@ -70,5 +70,6 @@ This project utilizes the following technologies and frameworks:
 This project is licensed under the MIT License.
 
 ## Demo
-[![Video Demo](path/to/thumbnail-image)]([https://www.youtube.com/watch?v=video-id](https://youtu.be/G0wcVbQDUPA))
+
+https://youtu.be/G0wcVbQDUPA
 
