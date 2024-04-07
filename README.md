@@ -1,6 +1,6 @@
 # Event Management using MERN
 
-This is a event management project showcasing a basic implementation of a MERN (MongoDB, Express.js, React.js, Node.js) stack application.
+This is an event management project showcasing a basic implementation of a MERN ( ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), [Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)) stack application.
 
 ## Table of Contents
 
@@ -14,15 +14,15 @@ This is a event management project showcasing a basic implementation of a MERN (
 
 ## Project Overview
 
-The project is Event/Venue management system which is a one stop shop for both venue owners and customers. On this platform, customers can look for events or venues to book and venue owners can post their listings and availability. Moreover, they can also interact with each other without any third-party interference. It also gives the event organizers the ability to chat with all the attendees at the same time without the hassle of sending out emails
+The project is an Event/Venue management system, a one-stop shop for venue owners and customers. On this platform, customers can look for events or venues to book and venue owners can post their listings and availability. Moreover, they can also interact with each other without any third-party interference. It also gives the event organizers the ability to chat with all the attendees at the same time without the hassle of sending out emails
 
 ## Features
 
 - User registration and authentication
-- Ability to search for events and activities as per user preferences such as location, budget or specific person like a sports player 
+- Ability to search for events and activities as per user preferences such as location, budget, or specific person like a sports player 
 - Ability for venue owner to create and update events 
 - Secure messaging and communication between parties for smooth correspondence 
-- Allowing users to keep a track of previously registered events or booked venues and upcoming reservations 
+- Allowing users to keep track of previously registered events or booked venues and upcoming reservations 
 - Dark and White Theme
 
 ## Installation
