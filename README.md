@@ -67,9 +67,6 @@ This project utilizes the following technologies and frameworks:
 7. Stripe API
 8. Gmail SMTP (for sending email)
 
-## License
-This project is licensed under the MIT License.
-
 ## Demo
 
 https://youtu.be/G0wcVbQDUPA
