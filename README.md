@@ -10,8 +10,7 @@ This is an event management project showcasing a basic implementation of a MERN 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-- [Demo](#demo)
+- [Project Demonstration](#Project-Demonstration)
 
 ## Project Overview
 
@@ -67,7 +66,7 @@ This project utilizes the following technologies and frameworks:
 7. Stripe API
 8. Gmail SMTP (for sending email)
 
-## Demo
+## Project-Demonstration
 
 [![Video Title](https://elements-cover-images-0.imgix.net/9b10bf53-9d3e-432c-8aad-51f02393d2c3?auto=compress%2Cformat&w=1170&fit=max&s=7d6ac4c9ac15b198a1c86638726da99c)](https://www.youtube.com/watch?v=G0wcVbQDUPA)
 
