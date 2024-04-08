@@ -70,6 +70,11 @@ This project utilizes the following technologies and frameworks:
 ## Demo
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/G0wcVbQDUPA" frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+  <source src="https://www.youtube.com/embed/G0wcVbQDUPA" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
