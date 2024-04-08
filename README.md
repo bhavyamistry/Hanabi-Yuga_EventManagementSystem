@@ -68,6 +68,6 @@ This project utilizes the following technologies and frameworks:
 8. Gmail SMTP (for sending email)
 
 ## Demo
+[<img src="https://img.youtube.com/vi/G0wcVbQDUPA/maxresdefault.jpg" width="50%">](https://youtu.be/G0wcVbQDUPA)
 
-https://youtu.be/G0wcVbQDUPA
 
