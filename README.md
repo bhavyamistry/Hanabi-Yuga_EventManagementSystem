@@ -69,10 +69,7 @@ This project utilizes the following technologies and frameworks:
 
 ## Demo
 
-<video width="640" height="360" controls>
-  <source src="https://www.youtube.com/embed/G0wcVbQDUPA" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Title](https://img.youtube.com/vi/G0wcVbQDUPA/0.jpg)](https://www.youtube.com/watch?v=G0wcVbQDUPA)
 
 
 
