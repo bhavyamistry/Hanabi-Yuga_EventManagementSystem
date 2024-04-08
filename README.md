@@ -69,7 +69,7 @@ This project utilizes the following technologies and frameworks:
 
 ## Demo
 
-[![Video Title](https://img.youtube.com/vi/G0wcVbQDUPA/0.jpg)](https://www.youtube.com/watch?v=G0wcVbQDUPA)
+[![Video Title](https://elements-cover-images-0.imgix.net/9b10bf53-9d3e-432c-8aad-51f02393d2c3?auto=compress%2Cformat&w=1170&fit=max&s=7d6ac4c9ac15b198a1c86638726da99c)](https://www.youtube.com/watch?v=G0wcVbQDUPA)
 
 
 
