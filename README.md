@@ -54,17 +54,14 @@ npm run
 This will start the server and client, and you can access the application in your browser at http://localhost:3000.
 
 ## Technologies-used
-
-This project utilizes the following technologies and frameworks:
-
-1. MongoDB
-2. Express.js
-3. React.js
-4. Node.js
-5. Rest API
-6. Bootstrap (for styling)
-7. Stripe API
-8. Gmail SMTP (for sending email)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) 
+![REST-API](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Gmmail SMTP](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
 ## Project-Demonstration
 
